@@ -1,91 +1,133 @@
-# Java Swing OOP Mini Projects
 
-This repository contains a collection of beginner-to-intermediate level Java Swing projects, all built using **Object-Oriented Programming (OOP)** principles. Each project is designed as a standalone Java application with clean UI and functional logic using Swing.
+# Java Swing OOP Project Bundle
 
-## Projects Included
+This repository contains **14 complete Java Swing projects**, each built using **Object-Oriented Programming (OOP)** concepts. Every project comes with a functional graphical user interface (GUI) and follows a modular, beginner-friendly structure.
+
+## Project List
 
 ### 1. To-Do List App (`TodoApp.java`)
-A simple application to add, mark, and delete to-do tasks. It demonstrates the use of `JList`, events, and list models.
+- Add, delete, and manage daily tasks
+- Uses JList and DefaultListModel
+- Lightweight and interactive
 
 ### 2. Calculator (`CalculatorApp.java`)
-A basic calculator performing arithmetic operations using buttons and text fields. Covers event-driven programming.
+- Basic arithmetic operations
+- Responsive button-based UI
+- Swing + ActionListener based
 
 ### 3. Student Grade Manager (`GradeApp.java`)
-Allows input of student names and grades, and calculates average. Demonstrates data encapsulation and GUI tables.
+- Manage student records and grades
+- Auto calculate average and display
+- Table-based GUI with edit support
 
 ### 4. Login/Signup System (`LoginApp.java`)
-A simple login/signup interface using Swing forms and internal data management. Uses OOP for user account handling.
+- Simple login form with signup validation
+- Swing forms + internal data handling
+- Great for form-based UI practice
 
 ### 5. Notepad Clone (`NotepadApp.java`)
-A basic notepad text editor with open/save functionality using `JFileChooser`.
+- Text editor with save/open functionality
+- Uses `JTextArea` and `JFileChooser`
+- Mimics Windows Notepad behavior
 
 ### 6. Tic-Tac-Toe (`TicTacToeApp.java`)
-Two-player tic-tac-toe game with game-over detection and win-checking logic.
+- 2-player game with win/draw detection
+- Grid-based buttons with simple logic
+- Classic mini project
 
 ### 7. Currency Converter (`CurrencyConverterApp.java`)
-Converts between different currencies using hardcoded exchange rates with dropdown selection.
+- Convert between multiple currencies
+- Static exchange rates + dropdown
+- Reusable business logic and GUI
 
-### 8. Stopwatch/Timer (`StopwatchApp.java`)
-Digital stopwatch with start, stop, and reset features. Demonstrates use of `javax.swing.Timer`.
+### 8. Stopwatch / Timer (`StopwatchApp.java`)
+- Start, stop, reset timer with display
+- Real-time UI updates with `Timer`
+- Clean layout and accurate timing
 
-### 9. Simple Chat Application (`ChatApp.java`)
-A server-client chat app (local) demonstrating networking in Java with a Swing-based UI.
+### 9. Chat Application (`ChatApp.java`)
+- Server-client local chat (localhost)
+- Threaded socket communication
+- Basic networking + Swing UI
 
 ### 10. Alarm Clock (`AlarmClockApp.java`)
-Takes a time input and triggers an alert when the system time matches it. Uses `Timer` and time parsing.
+- Set alarm time and receive alert
+- Realtime check using Timer
+- Great for date/time-based logic
 
 ### 11. File Explorer (`FileExplorerApp.java`)
-Open/save file chooser demo using `JFileChooser`. Demonstrates file handling in Swing.
+- Open, browse, and save files
+- Uses `JFileChooser`
+- Simple document file handler
 
 ### 12. BMI Calculator (`BMICalculatorApp.java`)
-Calculates Body Mass Index based on user input. Outputs BMI and category (underweight, normal, etc.).
+- Input height & weight, calculates BMI
+- Displays category (normal/overweight/etc.)
+- Practical mini app
 
 ### 13. Digital Clock (`DigitalClockApp.java`)
-Displays current system time, updating every second. Demonstrates time formatting and real-time UI updates.
+- Shows live system time
+- Updates every second
+- Swing + `SimpleDateFormat` usage
 
-### 14. Tic-Tac-Toe with AI (basic) (`TicTacToeAIApp.java`)
-An enhanced version of tic-tac-toe. You play against a simple logic-based AI.
+### 14. Tic-Tac-Toe with AI (`TicTacToeAIApp.java`)
+- Play against basic AI
+- Auto-move logic for computer
+- Strategic gameplay with conditions
+
+### 15. Business Management System (`BusinessManagerApp.java`)
+- Manage products, sales, and stock
+- Inventory tracking + sales report
+- Complete OOP-based app with table UI
 
 ---
 
+## Technologies Used
+
+- Java (JDK 8+)
+- Java Swing (GUI)
+- OOP: Classes, Encapsulation, Composition
+- No external libraries
+
 ## How to Run
 
-1. Clone the repository:
+1. Open terminal in the project folder
+2. Compile a project:
    ```bash
-   git clone https://github.com/your-username/java-swing-projects.git
-   cd java-swing-projects
+   javac FileName.java
 
-	2.	Compile any project using:
-
-javac FileName.java
-
-
-	3.	Run the project:
+	3.	Run it:
 
 java FileName
 
 Example:
 
-javac TodoApp.java
-java TodoApp
+javac CalculatorApp.java
+java CalculatorApp
 
 
 
 ⸻
 
-Requirements
-	•	JDK 8 or higher
-	•	Any Java-compatible IDE (IntelliJ, Eclipse, VS Code, etc.)
+Pricing
 
-⸻
+Each project: ₹50
+Full bundle: ₹500 (save ₹200!)
 
-License
-
-This repository is open source and available under the MIT License.
+Includes:
+	•	Source code
+	•	README
+	•	Setup guide
+	•	Optional ZIP or GitHub link
 
 ⸻
 
 Author
 
-Created by [Your Name] – Computer Science Engineering Student
-University: B. S. Abdur Rahman Crescent Institute of Science and 
+Sameer – B.Tech CSE
+B. S. Abdur Rahman Crescent Institute of Science and Technology
+
+⸻
+
+Perfect for mini-project submission, lab practice, OOP mastery, and Java Swing GUI learning.
+
