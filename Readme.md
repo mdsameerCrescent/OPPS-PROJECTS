@@ -110,14 +110,3 @@ Includes:
 	•	Setup guide
 	•	Optional ZIP or GitHub link
 
-⸻
-
-Author
-
-Sameer – B.Tech CSE
-B. S. Abdur Rahman Crescent Institute of Science and Technology
-
-⸻
-
-Perfect for mini-project submission, lab practice, OOP mastery, and Java Swing GUI learning.
-
