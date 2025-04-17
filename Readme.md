@@ -89,16 +89,6 @@ This repository contains **14 complete Java Swing projects**, each built using *
 - OOP: Classes, Encapsulation, Composition
 - No external libraries
 
-## How to Run
-
-1. Open terminal in the project folder
-2. Compile a project:
-   ```bash
-   javac FileName.java
-
-	3.	Run it:
-
-java FileName
 
 Example:
 
